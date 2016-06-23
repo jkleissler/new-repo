@@ -1,2 +1,3 @@
-# new-repo
-This is a new repository.
+# new repository for INLS161
+
+This is a new repository for INLS161 to learn how to use Git and Github.
